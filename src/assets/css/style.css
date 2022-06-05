@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;700&display=swap');
 
 :root {
-  --primary-color: rgb(17, 86, 102);
   --primary-color-darker: rgb(9, 48, 56);
   --yellow: rgba(235, 235, 88, 0.946);
   --black: rgb(0, 0, 0);
