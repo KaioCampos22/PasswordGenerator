@@ -1,4 +1,4 @@
-import generatePass from "./generetors";
+import generatePass from "./generators.js";
 const generatePassword = document.querySelector('.generated-password')
 const qtdCaracteres = document.querySelector('.qtd-caracteres')
 const chkUpperCase = document.querySelector('.chk-upperCase')
